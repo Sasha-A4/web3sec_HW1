@@ -1,0 +1,8 @@
+{
+  "name": "trip-fund",
+  "private": true,
+  "description": "TripFund — сбор на поездку команды",
+  "devDependencies": {
+    "@openzeppelin/upgrades-core": "^1.45.0"
+  }
+}
